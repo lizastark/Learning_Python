@@ -1,0 +1,3 @@
+Notes to self:
+
++ How to append elements from two separate lists in a for loop?
